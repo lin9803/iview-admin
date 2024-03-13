@@ -24,6 +24,7 @@ iView Admin is a front-end management background integration solution. It based 
 - [Base template recommends using](https://github.com/iview/iview-admin/tree/template)
 
 ![image](https://file.iviewui.com/admin-dist/admin-preview.png)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lin9803/iview-admin)
 
 ## Features
 
